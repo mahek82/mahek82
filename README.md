@@ -1,4 +1,7 @@
-## Hi there 👋
+this is my first git up
+<br>
+author - mahek
+
 
 <!--
 **mahek82/mahek82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
